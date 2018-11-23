@@ -1,0 +1,5 @@
+G:\Csharp\lab6\lab6\ArtistLibrary\bin\Debug\ArtistLibrary.dll
+G:\Csharp\lab6\lab6\ArtistLibrary\bin\Debug\ArtistLibrary.pdb
+G:\Csharp\lab6\lab6\ArtistLibrary\obj\Debug\ArtistLibrary.csproj.CoreCompileInputs.cache
+G:\Csharp\lab6\lab6\ArtistLibrary\obj\Debug\ArtistLibrary.dll
+G:\Csharp\lab6\lab6\ArtistLibrary\obj\Debug\ArtistLibrary.pdb

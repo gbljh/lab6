@@ -1,0 +1,10 @@
+G:\Csharp\lab6\lab6\lab6\bin\Debug\lab6.exe.config
+G:\Csharp\lab6\lab6\lab6\bin\Debug\lab6.exe
+G:\Csharp\lab6\lab6\lab6\bin\Debug\lab6.pdb
+G:\Csharp\lab6\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+G:\Csharp\lab6\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+G:\Csharp\lab6\lab6\lab6\obj\Debug\lab6.csproj.CopyComplete
+G:\Csharp\lab6\lab6\lab6\obj\Debug\lab6.exe
+G:\Csharp\lab6\lab6\lab6\obj\Debug\lab6.pdb
+G:\Csharp\lab6\lab6\lab6\bin\Debug\ArtistLibrary.dll
+G:\Csharp\lab6\lab6\lab6\bin\Debug\ArtistLibrary.pdb
